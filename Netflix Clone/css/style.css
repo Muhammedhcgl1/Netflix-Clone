@@ -21,7 +21,7 @@ body{
     height: 725px;
     position: relative;
     /* border-bottom: 8px solid #222; */
-    background: url("/Netflix\ Clone/img/header.jpg");
+    background: url("/Netflix Clone/img/header.jpg");
 }
 .header::after{
     position:absolute ;
